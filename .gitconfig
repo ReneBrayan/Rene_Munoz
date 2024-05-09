@@ -1,0 +1,6 @@
+[user]
+	name = rene
+	email = rene.munoz23@inacapmail.cl
+[core]
+	editor = code -- wait
+	autocrfl = true
