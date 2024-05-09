@@ -1,0 +1,27 @@
+.q{
+    border-style: double;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: azure;
+}
+
+body{
+    background-color:gainsboro;
+
+}
+
+.P{
+    border-style: solid;
+    background-color: wheat;
+    text-align: center;
+}
+.a{
+    color: blue;
+    border-style: solid;
+}
+
+.j{
+    color: blue;
+    border-style:solid;
+
+}
